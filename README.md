@@ -20,5 +20,6 @@ Na aplicação é possível realizar o CRUD dessas vagas que são compostas pelo
 ## Back-End
 - Java
 - Spring Boot
+- Postgresql
 - Jpa/Hibernate
 - Maven
